@@ -1,9 +1,9 @@
 // Slave 1
 
 #include <Wire.h>
-#define ADDR1 0x01
-#define ADDR2 0x02
-#define ADDR3 0x03
+#define ADDR1 1
+#define ADDR2 2
+#define ADDR3 3
 #define MAX_TOKEN 30
 
 char token[MAX_TOKEN];
